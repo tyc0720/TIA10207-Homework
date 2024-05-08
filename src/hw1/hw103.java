@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw103 {
+public class Hw103 {
 	//請由程式算出256559秒為多少天、多少小時、多少分與多少秒
 	public static void main(String[] args) {
 		int allSec = 256559;
